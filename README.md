@@ -1,6 +1,5 @@
 # python_duniya
 
-Got it — here’s a **detailed, structured “list view” syllabus** (clean, step-by-step, no fluff) so you can **track learning like a checklist** 👇
 
 ---
 
